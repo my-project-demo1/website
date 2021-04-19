@@ -3,4 +3,5 @@ Local Changes
 Nowedititing read me
 Now editing locally
 Commiting for pull and rebase
-Commiting the changes locally
+Editing the file in GutHub
+Commiting the changes locally Edited with p4 merge
